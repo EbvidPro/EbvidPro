@@ -7,9 +7,9 @@ I've always believed in giving back to the tech community, with a special emphas
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning react.js...
-- 👯 I’m looking to collaborate on frontend works...
+- 🔭 I’m currently working on my portfolio website.
+- 🌱 I’m currently learning more about react.js
+- 👯 I’m looking to collaborate on frontend works.
 - 🤔 Any advice to become a better Programmer is highly welcomed, I will really appreciate it.
-- 💬 Ask me about anything you which to know about me...
+- 💬 Ask me about anything you which to know about me.
 - 📫 How to reach me: WhatsApp(+234 7030271058).
