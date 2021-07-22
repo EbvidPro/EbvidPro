@@ -15,4 +15,4 @@ I've always believed in giving back to the tech community, with a special emphas
 - 📫 How to reach me: WhatsApp(+234 7030271058).
 
 ### Support me here 👇👇
-<a href="https://www.buymeacoffee.com/OluwatobiDavid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/OluwatobiDavid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174" border-radius="6px"></a>
