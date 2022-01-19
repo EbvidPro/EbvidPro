@@ -7,7 +7,6 @@ I've always believed in giving back to the tech community, with a special emphas
 
 ### Hi there 👋
 
-- 🔭 I’m currently on an internship with zuri(https://internship.zuri.team/).
 - 🌱 I’m currently learning more about react.js
 - 👯 I’m looking to collaborate on frontend works.
 - 🤔 Any advice to become a better Programmer is highly welcomed, I will really appreciate it.
