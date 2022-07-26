@@ -17,7 +17,7 @@
     <h2>Hi! I'm Tobi.
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h2>
-    <h4>:laptop: 💻Software Engineer | :man_technologist: Frontend Developer | Aspiring Full Stack Developer<h4>
+    <h4> 💻Software Engineer | :man_technologist: Frontend Developer | Aspiring Full Stack Developer<h4>
     
   </div>
 </div>
@@ -33,7 +33,7 @@
   
   <p>:seedling: I’m currently learning about Backend</p>
   
-  <p>:writing: Exploring Technical Content Writing </p>
+  <p>✍ Exploring Technical Content Writing </p>
   
   <p>👯 I’m looking to collaborate on anything related with Frontend Development.</p>
   
@@ -54,6 +54,16 @@
 
 <div>
   <h2>:fire: My Stats :</h2> 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EbvidPro&theme=dark)](https://git.io/streak-stats)
+  <div align='center'>
+    <a href="https://github.com/mmpacker/github-readme-stats">
+      <img height=200 src="https://github-readme-stats.vercel.app/api?username=EbvidPro&theme=dark&show_icons=true" />
+    </a>&nbsp&nbsp
+    <a href="https://git.io/streak-stats">
+      <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=EbvidPro&theme=dark" />
+    </a>&nbsp&nbsp
+    <a href="https://github.com/mmpacker/github-readme-stats">
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbvidPro&theme=dark" />
+    </a>
+  </div>
 </div>
 
