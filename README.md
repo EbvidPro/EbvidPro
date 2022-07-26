@@ -1,17 +1,59 @@
-### Glad to see you here!  
-Nice to meet you! I am pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. I am a passionate, self-motivated learner. I love learning, discovering new things and I love anything tech. I am very comfortable with HTML, CSS, JavaScript, Jquery, Git and Github, React.js and many others. I'm a big productivity and minimalism freak, and I'm constantly reading up on or trying out productivity hacks in an attempt to live a more balanced and thoughtful life. 
 
-I love to solve problems, highly teachable and ready to acquire new abilities, enjoyable to work with, have a strong work ethic, and, most importantly, I'm incredibly curious and ask a lot of questions!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/oluwatobi-david-65534b1a5/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/oluwatobi.ebenezer/">
+      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://twitter.com/OluwatobiDave">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  
+  <div>
+    <h2>Hi! I'm Tobi.
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h2>
+    <h4>:laptop: 💻Software Engineer | :man_technologist: Frontend Developer | Aspiring Full Stack Developer<h4>
+    
+  </div>
+</div>
 
-I've always believed in giving back to the tech community, with a special emphasis on developing and supporting chances for people looking to begin a career in technology through mentoring and offering to help in any difficulty.
+<div id="about">
+  <h2>:man_technologist:About Me</h2>
+  
+  <p> I'm a Frontend Developer, a passionate, self-motivated learner. I love learning, discovering new things and I love anything technology.</p>
+  
+  <p>:books: I Love reading</p>
+  
+  <p>:zap: In my free time, I take pictures of nature and read books.</p>
+  
+  <p>:seedling: I’m currently learning about Backend</p>
+  
+  <p>:writing: Exploring Technical Content Writing </p>
+  
+  <p>👯 I’m looking to collaborate on anything related with Frontend Development.</p>
+  
+</div>
 
-### Hi there 👋
+<div id="tools">
+  <h2>🛠Languages and Tools:</h2>
+  
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  </div>
+</div>
 
-- 🌱 I’m currently learning more about react.js
-- 👯 I’m looking to collaborate on frontend works.
-- 🤔 Any advice to become a better Programmer is highly welcomed, I will really appreciate it.
-- 💬 Ask me about anything you which to know about me and technology.
-- 📫 How to reach me: WhatsApp(+234 7030271058).
+<div>
+  <h2>:fire: My Stats :</h2> 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EbvidPro&theme=dark)](https://git.io/streak-stats)
+</div>
 
-### Support me here 👇👇
-<a href="https://www.buymeacoffee.com/OluwatobiDavid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174" text-align="center"></a>
