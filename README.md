@@ -58,9 +58,9 @@
     <a href="https://github.com/mmpacker/github-readme-stats">
       <img height=200 src="https://github-readme-stats.vercel.app/api?username=EbvidPro&theme=dark&show_icons=true" />
     </a>&nbsp&nbsp
-    <a href="https://git.io/streak-stats">
+<!--     <a href="https://git.io/streak-stats">
       <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=EbvidPro&theme=dark" />
-    </a>&nbsp&nbsp
+    </a>&nbsp&nbsp -->
     <a href="https://github.com/mmpacker/github-readme-stats">
       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbvidPro&theme=dark" />
     </a>
