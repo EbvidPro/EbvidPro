@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/oluwatobi-david-65534b1a5/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/oluwatobi.ebenezer/">
+    <a href="https://www.instagram.com/that.tobitech/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://twitter.com/OluwatobiDave">
